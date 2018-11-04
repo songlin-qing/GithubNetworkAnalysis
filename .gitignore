@@ -1,0 +1,6 @@
+.DS_Store
+Github224W-*.json
+.ipynb_checkpoints/
+snap-2.7/env2.7/*
+*.graph
+*.dot
